@@ -1,5 +1,3 @@
-
-
 * Text-to-Image generation using diffusion models
 * Integration of LLMs for better prompt understanding
 * High-resolution and realistic outputs
